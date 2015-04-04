@@ -1,0 +1,28 @@
+{
+  "name": "digraph-tag",
+  "version": "1.0.0",
+  "description": "ES6 string template tag for quickly generating directed graph data",
+  "main": "lib/digraph-tag.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/digraph-tag.git"
+  },
+  "keywords": [
+    "digraph",
+    "graph",
+    "directed graph",
+    "es6-tag"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdickinson/digraph-tag/issues"
+  },
+  "homepage": "https://github.com/chrisdickinson/digraph-tag",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
